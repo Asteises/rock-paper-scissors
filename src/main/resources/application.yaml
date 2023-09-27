@@ -1,0 +1,7 @@
+telegram:
+  bot:
+    name: rock_paper_scissors_ast_bot
+    token: 6662766853:AAEXDNKKTY6KQpqhrM8tIvH12HSegUM24zY
+
+server:
+  port: 8080
